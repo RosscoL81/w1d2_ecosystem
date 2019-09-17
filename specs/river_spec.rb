@@ -23,4 +23,8 @@ class RiverTest < MiniTest::Test
     assert_equal(3, @river.fish_length())
   end
 
+  # def test_remove_fish("Alvin")
+  #   assert_equal(2, @river.fish_length())
+  # end
+
 end

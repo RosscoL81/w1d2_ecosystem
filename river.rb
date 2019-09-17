@@ -11,6 +11,10 @@ class River
     return @fish.length()
   end
 
+  # def remove_fish(fish)
+  #   @fish.delete(fish)
+  # end
+
 
 
 end
